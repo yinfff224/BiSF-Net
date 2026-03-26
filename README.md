@@ -11,7 +11,7 @@ BiSF-Net: Bidirectional Spatial-Frequency Extraction and Fusion Network for Unde
 </p>
 
 ## Requirements 
-Please install the corresponding libraries according to the versions listed below.
+Please install the corresponding libraries according to the versions listed below. For other detailed versions, refer to requirements.txt.
 - python==3.8.20
 - torch==2.2.0
 - torchvision==0.17.0
