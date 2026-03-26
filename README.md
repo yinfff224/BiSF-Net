@@ -1,5 +1,6 @@
 <div align="center">
 
-# CDF-UIE
+# BiSF-Net
 
-如果你想要训练该模型：
+BiSF-Net: Bidirectional Spatial-Frequency Extraction and Fusion Network for Underwater Image Enhancement
+</div>
