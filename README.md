@@ -11,7 +11,7 @@ The full code, including pre-trained weights, will be released within one week a
 
 ## Overview
 <p align="center">
-    <img src="image/Overallframework.png" width="60%" style="border-radius: 15px">
+    <img src="image/Overallframework.png" style="border-radius: 15px">
 </p>
 
 ## Requirements 
