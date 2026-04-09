@@ -24,3 +24,16 @@ Please install the corresponding libraries according to the versions listed belo
 ## Datasets setting 
 
 
+### Train
+
+An example of training on UIEB
+```
+ python train.py -d UIEB --cuda --b 32 --ckpt-save-path ../ckpts --nb-epochs 500  
+```
+### Test
+An example of testing on UIEB
+```
+ python src/test_PSNR.py --dataset-name UIEB --path ./data/UIEB/test   
+```
+
+
