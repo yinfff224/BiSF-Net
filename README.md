@@ -10,6 +10,14 @@ BiSF-Net: Bidirectional Spatial-Frequency Extraction and Fusion Network for Unde
     <img src="image/Overall framework.png" width="80%" style="border-radius: 15px">
 </p>
 
+<p align="center">
+  <img src="image/Core idea.jepg" width="45%" style="margin: 0 1%; border-radius: 10px">
+  <img src="image/图2.png" width="45%" style="margin: 0 1%; border-radius: 10px">
+</p>
+
+<p align="center">
+  <img src="image/图3.png" width="80%" style="border-radius: 15px">
+</p>
 ## Requirements 
 Please install the corresponding libraries according to the versions listed below. For other detailed versions, refer to requirements.txt.
 - python==3.8.20
