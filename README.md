@@ -2,8 +2,11 @@
 
 # BiSF-Net
 
-BiSF-Net: Bidirectional Spatial-Frequency Extraction and Fusion Network for Underwater Image Enhancement
-Please note that this method is currently under review. The full code, including pre-trained weights, will be released within one week after the paper is accepted.
+### Bidirectional Spatial-Frequency Extraction and Fusion Network for Underwater Image Enhancement
+
+Please note that this method is currently under review.  
+The full code, including pre-trained weights, will be released within one week after the paper is accepted.
+
 </div>
 
 ## Overview
