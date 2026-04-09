@@ -14,10 +14,6 @@ The full code, including pre-trained weights, will be released within one week a
     <img src="image/Overall_framework.png" width="60%" style="border-radius: 15px">
 </p>
 
-<p align="center">
-  <img src="image/Core_idea.png" width="45%" style="margin: 0 1%; border-radius: 10px">
-</p>
-
 ## Requirements 
 Please install the corresponding libraries according to the versions listed below. For other detailed versions, refer to requirements.txt.
 - python==3.8.20
