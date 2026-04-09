@@ -45,7 +45,8 @@ The directory structure of the dataset is as follows:
 │   │   └── [2.png]
 │   └── validdata_list.txt 
 ├── traindata_list.txt    
-└── validdata_list.txt     
+└── validdata_list.txt
+```
 ## Train
 
 An example of training on UIEB
