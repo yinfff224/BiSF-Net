@@ -22,7 +22,23 @@ Please install the corresponding libraries according to the versions listed belo
 - mmcv==2.2.0
 - mmengine==0.10.7
 ## Datasets setting 
-
+<数据集根目录>/
+├── test/                 # 测试集目录
+│   └── [测试图片文件]    # 仅存放测试输入图片（无标注/GT文件）
+├── train/                # 训练集目录
+│   ├── gt/               # 训练集真值/标注图片目录
+│   │   └── [训练GT图片]
+│   ├── input/            # 训练集输入图片目录
+│   │   └── [训练输入图片]
+│   └── traindata_list.txt # 训练集文件列表（由extract_name.py自动生成）
+├── valid/                # 验证集目录
+│   ├── gt/               # 验证集真值/标注图片目录
+│   │   └── [验证GT图片]
+│   ├── input/            # 验证集输入图片目录
+│   │   └── [验证输入图片]
+│   └── validdata_list.txt # 验证集文件列表（由extract_name.py自动生成）
+├── traindata_list.txt     # 根目录训练集列表副本（由extract_name.py生成）
+└── validdata_list.txt     # 根目录验证集列表副本（由extract_name.py生成）
 
 ### Train
 
