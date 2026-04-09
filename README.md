@@ -15,9 +15,6 @@ BiSF-Net: Bidirectional Spatial-Frequency Extraction and Fusion Network for Unde
   <img src="image/Performance comparison.jpeg" width="45%" style="margin: 0 1%; border-radius: 10px">
 </p>
 
-<p align="center">
-  <img src="image/BiSFM.png" width="60%" style="border-radius: 15px">
-</p>
 
 ## Requirements 
 Please install the corresponding libraries according to the versions listed below. For other detailed versions, refer to requirements.txt.
