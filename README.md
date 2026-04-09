@@ -13,6 +13,9 @@ The full code, including pre-trained weights, will be released within one week a
 <p align="center">
     <img src="image/Overall framework.png" style="border-radius: 15px">
 </p>
+<p align="center">
+    <img src="image/Core idea.png" style="border-radius: 15px">
+</p>
 
 ## Requirements 
 Please install the corresponding libraries according to the versions listed below. For other detailed versions, refer to requirements.txt.
