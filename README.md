@@ -12,7 +12,7 @@ BiSF-Net: Bidirectional Spatial-Frequency Extraction and Fusion Network for Unde
 
 <p align="center">
   <img src="image/Core idea.png" width="45%" style="margin: 0 1%; border-radius: 10px">
-  <img src="image/图2.png" width="45%" style="margin: 0 1%; border-radius: 10px">
+  <img src="image/Performance comparison.jpeg" width="45%" style="margin: 0 1%; border-radius: 10px">
 </p>
 
 <p align="center">
