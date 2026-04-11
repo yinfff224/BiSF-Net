@@ -7,7 +7,7 @@
 </div>
 
 Please note that this method is currently under review.  
-The full code, including pre-trained weights, will be released within one week after the paper is accepted.
+The full code will be released within one week after the paper is accepted.
 
 ## Overview
 <p align="center">
